@@ -1,5 +1,5 @@
 # RDP-Stealer
-The RDP-Stealer is C++ malware that targets Remote Desktop Protocol (RDP) processes. It acts as a keystroke logger, capturing credentials provided by users in RDP and sending back encrypted data to a C2 server.
+RDP-Stealer is C++ malware that targets Remote Desktop Protocol (RDP) processes. It acts as a keystroke logger, capturing credentials provided by users in RDP and sending back encrypted data to a C2 server.
 
 ## Features
 - Executes without a visible window (in the background).
