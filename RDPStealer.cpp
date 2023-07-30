@@ -10,14 +10,6 @@
 using namespace std;
 #pragma comment(lib, "Wininet.lib")
 
-/*
-TODO
-1. Add Schedule Task
-2. Add Banner
-char sysPath[] = "";
-char taskName[] = "GoogleChromeUpdater";
-*/
-
 // Global Varibles
 LPCWSTR remoteIP = L"10.1.1.1"; // Change server IP Address
 int remotePORT = 8000; // Change server PORT
