@@ -7,11 +7,6 @@ RDP-Stealer is C++ malware that targets Remote Desktop Protocol (RDP) processes.
 - Captures keystrokes in RDP processes using the context of `mstsc.exe` and `CredentialUIBroker.exe`.
 - Encrypts the captured data using `XOR` and `BASE64`.
 - Sends data to a C2 server.
-- Modifies the registry to auto-execute at every reboot.
-
-## TODO 🚧
-- Add Schedule Task
-- Add Banner
 
 ## Usage
 
