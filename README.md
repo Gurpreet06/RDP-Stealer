@@ -22,7 +22,7 @@ php -S 0.0.0.0:8000
 ```
 > Note ⚠️
 - It is better to use an `HTTPS server` instead of an `HTTP server`.
-The program will execute in the background and will not display any windows, as it is shown in the video below.
+- The program will execute in the background and will not display any windows, as it is shown in the video below.
 
 ## POC
 https://github.com/Gurpreet06/RDP-Stealer/assets/74554439/117a655e-63eb-409e-a62c-4682eab4a772
